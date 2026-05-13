@@ -5,10 +5,15 @@ A modern cosmetic clinic website built to showcase aesthetic treatments, skincar
 ✨ Features
 
 Modern UI Design
+
 Fully Responsive Website
+
 Services Section
+
 Before / After Gallery
+
 Testimonials
+
 Contact Form
 
 🛠 Tech Stack
@@ -18,6 +23,7 @@ CSS
 JavaScript
 
 🚀 How to Run
+
 git clone https://github.com/your-username/luxeglow-clinic.git
 
 Then open index.html in your browser.
