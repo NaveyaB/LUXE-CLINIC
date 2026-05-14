@@ -22,11 +22,7 @@ HTML
 CSS
 JavaScript
 
-🚀 How to Run
 
-git clone https://github.com/your-username/luxeglow-clinic.git
-
-Then open index.html in your browser.
 
 👨‍💻 Developer
 
